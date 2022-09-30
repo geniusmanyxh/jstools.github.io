@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as n}from"./app.01e1e0d0.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"functions/numberTool/index.md","lastUpdated":1663918986000}'),o={name:"functions/numberTool/index.md"};function a(r,s,c,d,i,p){return n(),t("div")}const f=e(o,[["render",a]]);export{m as __pageData,f as default};

@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as n}from"./app.01e1e0d0.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"functions/stringTool/index.md","lastUpdated":1663918986000}'),o={name:"functions/stringTool/index.md"};function a(s,r,c,i,d,p){return n(),e("div")}const l=t(o,[["render",a]]);export{f as __pageData,l as default};
